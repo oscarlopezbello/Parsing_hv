@@ -1,0 +1,33 @@
+{
+    "bases_de_datos": [
+        "Oracle", "sql"
+    ],
+    "lenguajes_de_programacion": [
+
+        "Java"
+    ],
+    "frameworks": [
+        "react"
+    ],
+    "nube": [
+        "AWS"
+    ],
+    "cargos": [
+        "arquitecto", "desarrollador"
+    ],
+    "idiomas": [
+        "Inglés"
+    ],
+    "experiencia": [
+        "4"
+    ],
+    "sueldo": [
+        "7"
+    ],
+    "tarjeta_profesional": [
+        "no"
+    ],
+    "estudios": [
+        "ingeniería de software"
+    ]
+}
