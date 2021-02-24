@@ -1,0 +1,182 @@
+
+Andres Villada Agudelo
+Ingeniería de sistemas Computación
+C.C. 1022340885 | 33 años
+
+ Celular: +57 3164169129
+ Teléfono: (031) 3164169129
+
+ Cra 79 g No 57 58 Sur
+  avillada90@hotmail.com
+Estudios
+Ingeniero de Sistemas
+Universitaria
+Escuela Colombiana de Carreras
+Industriales
+2009 - 2015 Formal
+Master universitario en
+ingeniería de software y
+sistemas informáticos
+Maestría
+Universidad internacional de la rioja -unir-
+2017 - 2018 Formal
+Curso intensivo de ingles
+Curso
+Instituto Oxford (Bernals)
+2000 - 2000 NonFormal
+Diplomado en ensamble y
+mantenimiento de equipos de
+computo
+Diplomado
+Aula Matriz
+2006 - 2006 NonFormal
+Curso introductorio a los
+sistemas ERP
+Diplomado
+Sena
+2007 - 2007 NonFormal
+Abbyy Basic Training
+Curso
+ABBYY-Indexa
+2011 - 2011 NonFormal
+Abbyy Advanced Training
+Curso
+ABBYY-Indexa
+2012 - 2012 NonFormal
+Perfil profesional
+INGENIERÍA DE SISTEMAS
+COMPUTACIÓN
+Profesión
+10 AÑOS
+Experiencia
+$6 A $8
+Aspiración salarial
+[Actualizada el: 22/10/2020] Ingeniero de sistemas con conocimientos en transformación Digital, innovador ,
+con alta pro-actividad, honestidad, compromiso y altos desos de superacion personal y profesional.
+
+Universitaria
+
+Bogotá
+
+Masculino
+Idiomas:  Inglés 50 % |
+Experiencia laboral
+Arquitecto de soluciones
+septiembre 2020 - Fecha actual Sophos solutions s.a.s, Bogotá
+Área de trabajo: Financiera: crédito y tesorería
+Sector: Productores y distribuidores de software
+*Responsable de la creación de diseños para nuevos proyectos de software y alteraciones a soluciones ya
+existentes. Debe estar involucrado en todo el proceso de desarrollo de software, desde la fase de análisis
+hasta el despliegue en producción. *Definir la arquitectura candidata de las aplicaciones *Refinamiento de la
+arquitectura para llegar a una arquitectura definitiva *Selección y dimensionamiento de la infraestructura
+requeridas para los proyectos. *Definir el plan de capacidad de las soluciones de software que diseñe.
+*Generar los diseños altamente detallados que servirán como insumo para los equipos de desarrollo.
+*Desarrollar pruebas de concepto y recetas de nuevos patrones de software. -Spring Boot -Microservicios -
+Docker -Prometheus -Graffana -GIT *Evaluar la factibilidad técnica de los proyectos. *Realizar el análisis de
+impacto en la arquitectura de la organización derivado de nuevos proyectos. *Trabajar estrechamente con un
+equipo de otros profesionales como dueños de servicios, gerentes de proyecto, equipo de riesgos y equipo de
+seguridad. *Participar en la estimación de los proyectos de software.
+Líder tecnico
+noviembre 2018 - septiembre 2020 Casa editorial el tiempo, Bogotá
+Área de trabajo: Sistemas y Tecnología
+Sector: Periódicos
+Encargado de gestionar todas las actividades y recursos de dos portales transaccionales en el proceso de
+evolución que están viviendo. Migración de Arquitectura Monolítica a Microservicios, basados en el framework
+SpringBoot - JAVA J2EE. Migración del front usando React, Redux, Typescript. Conocimientos en Docker,
+Kubernetes, GitLab, Jenkins, Maven, Gradle, JUnit, Selenium. Conocimientos en AWS y Azure. Liderazgo de el
+equipo de Desarrollo. Liderazgo del equipo de QA. Gestión de actividades con los equipos de Infraestructura,
+UI, UX para lograr los objetivos. Definiciones técnicas en la evolución de los portales. Constante definición de
+actividades con las áreas de producto.
+Coordinador de apoyo digital
+agosto 2016 - noviembre 2018 Seguros bolivar, Bogotá
+Área de trabajo: Sistemas y Tecnología
+Sector: Servicios financieros
+Gestión de Proveedores y fábricas de Software. Estimación y planeación de nuevos requerimientos. Gestión
+de presupuesto Apoyar los procesos de transformacion digital y la adopcion de nuevos procesos que esta
+llevando a cabo la organizacion. Creación del marco de trabajo Ágil que usa la compañia en su actual oferta
+de valor. Adopción de herramientas tecnológicas que apoyan el proceso de transformación de distintas áreas
+de la compañía. Ganador del premio de innovación de la compañía en el año 2016, por los aportes a la
+transformación digital. Aportar a la creación de una cultura innovadora dentro de la organización que permita
+hacer sostenibles los cambios a los que nos enfrentamos en la nueva era.
+Ingeniero de desarrollo senior
+abril 2014 - julio 2016 Cifin s.a, Bogotá
+Área de trabajo: Sistemas y Tecnología
+Sector: Banca
+Construccion de software en el lenguaje JAVA. Construccion de aplicaciones web JEE. Manejo de JSF, JPA,
+HIBERNATE, EJB, JavaScript, Jquery. Conocimiento de servidores de aplicaciones OAS, WebLogic Diseño y
+Android Trainning
+Curso
+INTECAP
+2013 - 2013 NonFormal
+ITIL Foundation
+Diplomado
+ITIL
+2014 - 2014 NonFormal
+ITIL SOA
+Diplomado
+ITIL
+2014 - 2014 NonFormal
+Gestión ágil de proyectos
+scrum
+Diplomado
+Fundación de egresados de la universidad
+distrital
+2018 - 2018 NonFormal
+Scrum fundamentals
+Diplomado
+Fundación de egresados de la universidad
+distrital
+2018 - 2018 NonFormal
+modelamiento de aplicaciones.
+Analista de desarrollo senior
+abril 2013 - abril 2014 Idime s.a, Bogotá
+Área de trabajo: Sistemas y Tecnología
+Sector: IPS
+Funciones Crear, administrar y mantener herramientas de software creadas con el lenguje Delphi. Creacion de
+consultas, procedimientos Almacenados,funciones y triggers en SQL, utilizando como motor Oracle. Generar
+analisis de nuevos proyectos de software. Creacion de casos de uso, diagramas de tiempos. Participacion
+activa en migraciones de datos para unificar las diferentes sedes de la organizacion. Logros: Puesta en
+produccion de el sistema encargado de administrar el inventario de equipos medicos. Desarrollo y puesta en
+produccion de el sistema de compras y manejo de inventarios para la organizacion.
+Analista de Desarrollo
+octubre 2010 - abril 2013 Thomas MTI Miembro del grupo Thomas Greg & Sons, Bogotá
+Jefe Directo: Jimmy Penagos
+Área de trabajo: Sistemas y Tecnología
+Sector: Servicios financieros
+Creacion de Herramientas informaticas en los lenguajes Delphi, C#, VBS, JS. Manejo de los motores de base
+de datos PostgreSQL, Firebird, DB2, MySql. Administracion de la herramienta ABBYY FLexicapture.
+Participacion en los analisis de viabilidad de proyectos electorales. Durante mi paso por MTI he alcanzado dos
+ascensos : 1. De estar en el area de soporte pase a hacer parte del equipo de desarrollo, alcanzando el cargo
+de Tecnico en desarrollo de software. 2. Luego de ser Tecnico de desarrollo de software, alcance el cargo de
+Analista de desarrollo. 3. Participacion en el area de investigacion e innovacion de la compañia. Ademas de
+estos logros he estado trabajado en proyectos gubernamentales, proyectos de comunicaciones, proyectos de
+aseguramiento de la calidad del software, me he consolidado dentro de la organizacion alcanzando un gran
+reconocimiento por las labores que se me han asignado y el cumplimiento de las mismas.
+Auxiliar de Sistemas
+junio 2010 - agosto 2010 DDB Worlwide Colombia, Sin Definir
+Jefe Directo: Sin Definir
+Área de trabajo: Sistemas y Tecnología
+Sector: Agencias de publicidad
+Funciones: 1.Soporte Nivel I 2. Manejo e instalacion de la herramienta Lotus Notes 3. Manejo e instalacion del
+paquete contable CG1 4. Montaje de VPN 'S 5. Acceso Remoto 6. Manejo del Rack de datos
+Auxiliar de Sistemas
+octubre 2009 - noviembre 2009 Union temporal DDB, Sin Definir
+Jefe Directo: Sin Definir
+Área de trabajo: Sistemas y Tecnología
+Sector: Productores y distribuidores de software
+*Testeo de puntos de red para el montaje de una VLAN. *Monitoreo de varias señales de streaming.
+*Instalacion de software adicional para conferencias. *Configuracion de Access Point. *Manejo de traducciones
+simultaneas. Logros *Ofrecimiento de un puesto de trabajo directamente con la compañia.
+Auxiliar de Sistemas
+febrero 2007 - octubre 2009 FEHILBO, Sin Definir
+Jefe Directo: Sin Definir
+Área de trabajo: Sistemas y Tecnología
+Sector: Manufacturas varias
+*Mantenimiento preventivo y correctivo de los equipos de computo. *Mantenimiento de la red de datos de la
+empresa. *Soporte remoto. *Montaje de sistemas operativos.
+Habilidades y competencias
+ Liderazgo de equipos
+ Compromiso con la calidad
+ Generación de ideas
+ Pensamiento conceptual
+ Actividades operativas
